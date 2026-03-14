@@ -1,0 +1,8 @@
+## Reflection 
+- While working on this assignment, the main focus was on building a small but clean full-stack system and keeping the code structure easy to understand. I spent most of the time setting up the backend structure, designing the database schema, and connecting the frontend dashboard with the APIs.
+
+- One useful aspect during development was occasionally using AI tools to clarify certain implementation ideas or resolve small issues that came up while coding. For example, when thinking about how to organize the backend structure, it helped to quickly validate the idea of separating domain logic, use cases, and adapters before implementing it in the project. It was also helpful for checking small pieces of TypeScript or frontend components while expanding the dashboard.
+
+- That said, most of the implementation work still involved reviewing the generated suggestions, adjusting them, and making sure they fit the requirements of the assignment. Areas like route comparison logic, baseline handling, and pooling behavior required manual verification to ensure that the calculations and data flow worked correctly.
+
+- Overall, the development process was a good opportunity to combine backend design, database modeling, and frontend visualization into a working dashboard. If this project were expanded further, I would likely add automated tests, stronger API validation, and more detailed compliance operations for banking and pooling.
