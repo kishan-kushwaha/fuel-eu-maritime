@@ -113,9 +113,4 @@ GET /compliance/cb?year=2025
 GET /compliance/pools?year=2025
 ```
 
-## Screenshots
-Add screenshots after running locally:
-- `docs/routes-tab.png`
-- `docs/compare-tab.png`
-- `docs/banking-tab.png`
-- `docs/pooling-tab.png`
+
